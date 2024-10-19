@@ -1,10 +1,8 @@
 # AI Safety and Ethics
 
-AI Safety and Ethics are critical areas that focus on creating intelligent systems that are safe, transparent, and aligned with human values. AI Safety emphasizes preventing unintended consequences from AI models, such as harmful behavior or misalignment with human goals, by implementing rigorous testing, fail-safes, and monitoring systems. AI Ethics, on the other hand, addresses broader social implications like fairness, accountability, privacy, and bias, ensuring that AI technologies do not perpetuate discrimination or infringe on human rights. Together, these fields promote responsible AI use, emphasizing trust, human oversight, and adherence to ethical principles in the design and deployment of AI systems.
+AI safety and ethics involve establishing guidelines and best practices to ensure that artificial intelligence systems are developed, deployed, and used in a manner that prioritizes human well-being, fairness, and transparency. This includes addressing risks such as bias, privacy violations, unintended consequences, and ensuring that AI operates reliably and predictably, even in complex environments. Ethical considerations focus on promoting accountability, avoiding discrimination, and aligning AI systems with human values and societal norms. Frameworks like explainability, human-in-the-loop design, and robust monitoring are often used to build systems that not only achieve technical objectives but also uphold ethical standards and mitigate potential harms.
 
-Visit the following resources to learn more:
+Learn more from the following resources:
 
-- [Understanding artificial intelligence ethics and safety](https://www.turing.ac.uk/news/publications/understanding-artificial-intelligence-ethics-and-safety)
-- [Introduction to AI Safety, Ethics, and Society](https://www.aisafetybook.com/)
-- [Ethics & Society: AI safety: Today and tomorrow
-](https://www.youtube.com/watch?v=vEVp-SX4tZQ)
+- [@video@What is AI Ethics?](https://www.youtube.com/watch?v=aGwYtUzMQUk)
+- [@article@Understanding artificial intelligence ethics and safety](https://www.turing.ac.uk/news/publications/understanding-artificial-intelligence-ethics-and-safety)

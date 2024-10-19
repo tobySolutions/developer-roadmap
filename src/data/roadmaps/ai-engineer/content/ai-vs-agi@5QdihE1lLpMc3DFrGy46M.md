@@ -1,10 +1,8 @@
 # AI vs AGI
 
-Artificial Intelligence (AI) refers to machines designed to perform specific tasks such as image recognition, language processing, or decision-making, often surpassing human performance in narrow domains. These systems are specialized and lack general understanding outside of their defined scope. In contrast, Artificial General Intelligence (AGI) is a theoretical form of AI that possesses human-like cognitive abilities across a wide range of tasks, demonstrating flexibility, common sense, and the ability to learn and adapt autonomously. While current AI excels in narrow applications, AGI aims to mimic human intelligence holistically, but it remains a long-term goal and a subject of ongoing research
+AI (Artificial Intelligence) refers to systems designed to perform specific tasks by mimicking aspects of human intelligence, such as pattern recognition, decision-making, and language processing. These systems, known as "narrow AI," are highly specialized, excelling in defined areas like image classification or recommendation algorithms but lacking broader cognitive abilities. In contrast, AGI (Artificial General Intelligence) represents a theoretical form of intelligence that possesses the ability to understand, learn, and apply knowledge across a wide range of tasks at a human-like level. AGI would have the capacity for abstract thinking, reasoning, and adaptability similar to human cognitive abilities, making it far more versatile than today’s AI systems. While current AI technology is powerful, AGI remains a distant goal and presents complex challenges in safety, ethics, and technical feasibility.
 
-Visit the following resources to learn more:
+Learn more from the following resources:
 
-- [The Crucial Difference Between AI And AGI](https://forbes.com/sites/bernardmarr/2024/05/20/the-crucial-difference-between-ai-and-agi/)
-- [AGI vs. Narrow AI: Key Differences](https://blog.obiex.finance/agi-vs-narrow-ai-key-differences/)
-- [What's the Difference: AI and AGI?](https://www.youtube.com/watch?v=Q0D37WWpvrs)
-- [AGI vs. other types of AI: What's the difference?](https://toloka.ai/blog/agi-vs-other-ai/)
+- [@article@What is AGI?](https://aws.amazon.com/what-is/artificial-general-intelligence/)
+- [@article@The crucial difference between AI and AGI](https://www.forbes.com/sites/bernardmarr/2024/05/20/the-crucial-difference-between-ai-and-agi/)
